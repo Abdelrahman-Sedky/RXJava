@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RXJava</string>
+    <string name="open_second_activity">Open Second Activity</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="_0">0</string>
+    <string name="go_back">Go Back</string>
+</resources>
